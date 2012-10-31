@@ -6,9 +6,10 @@ recipebook
 
 Dedicated to my wonderful wife who is also a wonderful cook.
 
+Versions
+=========
 @version 0.1
-===========
-Requirements
--------------
+------------
+Requirements:
 1. Should be able to create/view/edit/delete recipes as simple text.
 2. No Login required
